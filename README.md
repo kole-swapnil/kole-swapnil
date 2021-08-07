@@ -64,7 +64,7 @@
   <summary>💻 GitHub Profile Stats</summary>
   <br/>
   <p align="center">
-    <a href="https://github.com/kole-swapnil"><img align="center" alt="kole-swapnil's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=kole-swapnil&show_icons=true&count_private=true&theme=highcontrast" height="192px"/></a>
+    <a href="https://github.com/kole-swapnil"><img align="center" alt="kole-swapnil's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=kole-swapnil&show_icons=true&count_private=true&theme=highcontrast&hide_border=true" height="192px"/></a>
   <a href="https://github.com/kole-swapnil"><img align="center" height="192px" alt="kole-swapnil's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kole-swapnil&langs_count=20&layout=compact&theme=highcontrast&hide_border=true" /></a>
   <br/>
   </p>
