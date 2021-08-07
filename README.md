@@ -46,12 +46,12 @@
 ## 📘 Projects
 
 <p align="left">
-  <a href="https://kole-swapnil.github.io/" target= "_blank"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=kole-swapnil&repo=kole-swapnil.github.io&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt=""></a>
-  <a href="https://github.com/kole-swapnil/Certichain"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=kole-swapnil&repo=Certichain&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="Certichain"></a>
-  <a href="https://github.com/kole-swapnil/Distributeddocapp"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=kole-swapnil&repo=Distributeddocapp&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&theme=react&show_icons=false" alt="Distributed Doctor Application"></a>
-  <a href="https://kole-swapnil.github.io/Process_Lineage/"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=kole-swapnil&repo=Process_Lineage&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="Process_Lineage"></a>
-  <a href="https://noobphotographer.github.io/" target= "_blank"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=noobphotographer&repo=noobphotographer.github.io&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="Photography Website"></a>
-  <a href="https://github.com/kole-swapnil/Dairy-Management-System-SQL"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=kole-swapnil&repo=Dairy-Management-System-SQL&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="Dairy Management System"></a>
+  <a href="https://kole-swapnil.github.io/" target= "_blank"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=kole-swapnil&repo=kole-swapnil.github.io&theme=highcontrast&hide_border=true&show_icons=false" alt=""></a>
+  <a href="https://github.com/kole-swapnil/Certichain"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=kole-swapnil&repo=Certichain&theme=highcontrast&hide_border=true&show_icons=false" alt="Certichain"></a>
+  <a href="https://github.com/kole-swapnil/Distributeddocapp"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=kole-swapnil&repo=Distributeddocapp&hide_border=true&theme=highcontrast&show_icons=false" alt="Distributed Doctor Application"></a>
+  <a href="https://kole-swapnil.github.io/Process_Lineage/"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=kole-swapnil&repo=Process_Lineage&theme=highcontrast&hide_border=true&show_icons=false" alt="Process_Lineage"></a>
+  <a href="https://noobphotographer.github.io/" target= "_blank"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=noobphotographer&repo=noobphotographer.github.io&theme=highcontrast&hide_border=true&show_icons=false" alt="Photography Website"></a>
+  <a href="https://github.com/kole-swapnil/Dairy-Management-System-SQL"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=kole-swapnil&repo=Dairy-Management-System-SQL&theme=highcontrast&hide_border=true&show_icons=false" alt="Dairy Management System"></a>
    
 </p>
 </p>
@@ -64,8 +64,8 @@
   <summary>💻 GitHub Profile Stats</summary>
   <br/>
   <p align="center">
-    <a href="https://github.com/kole-swapnil"><img align="center" alt="kole-swapnil's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=kole-swapnil&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
-  <a href="https://github.com/kole-swapnil"><img align="center" height="192px" alt="kole-swapnil's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kole-swapnil&langs_count=15&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" /></a>
+    <a href="https://github.com/kole-swapnil"><img align="center" alt="kole-swapnil's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=kole-swapnil&show_icons=true&count_private=true&theme=highcontrast" height="192px"/></a>
+  <a href="https://github.com/kole-swapnil"><img align="center" height="192px" alt="kole-swapnil's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kole-swapnil&langs_count=20&layout=compact&theme=highcontrast&hide_border=true" /></a>
   <br/>
   </p>
  
@@ -74,7 +74,7 @@
 <!--Contribution Graph-->
 </br>
 
-![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=kole-swapnil&bg_color=000000&color=F8D866&line=39FF14&point=FFFFFF&hide_border=true)
+![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=kole-swapnil&bg_color=000000&color=F8D866&line=39FF14&area_color=39FF14&point=FFFFFF&hide_border=true&area=true)
 
 </br>
 
