@@ -74,7 +74,7 @@
 <!--Contribution Graph-->
 </br>
 
-![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=kole-swapnil&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true)
+![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=kole-swapnil&bg_color=1F222E&color=F8D866&line=39FF14&point=FFFFFF&hide_border=true)
 
 </br>
 
