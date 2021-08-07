@@ -51,7 +51,7 @@
   <a href="https://github.com/kole-swapnil/Distributeddocapp"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=kole-swapnil&repo=Distributeddocapp&hide_border=true&theme=highcontrast&show_icons=false" alt="Distributed Doctor Application"></a>
   <a href="https://kole-swapnil.github.io/Process_Lineage/"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=kole-swapnil&repo=Process_Lineage&theme=highcontrast&hide_border=true&show_icons=false" alt="Process_Lineage"></a>
   <a href="https://noobphotographer.github.io/" target= "_blank"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=noobphotographer&repo=noobphotographer.github.io&theme=highcontrast&hide_border=true&show_icons=false" alt="Photography Website"></a>
-  <a href="https://github.com/kole-swapnil/Dairy-Management-System-SQL"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=kole-swapnil&repo=Dairy-Management-System-SQL&theme=highcontrast&hide_border=true&show_icons=false" alt="Dairy Management System"></a>
+  <a href="https://github.com/kole-swapnil/CryptoArt"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=kole-swapnil&repo=CryptoArt&theme=highcontrast&hide_border=true&show_icons=false" alt="CryptoArt"></a>
    
 </p>
 </p>
