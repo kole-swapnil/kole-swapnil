@@ -42,20 +42,6 @@
 
 </br>
 
-<!--Projects-->
-## 📘 Projects
-
-<p align="left">
-  <a href="https://kole-swapnil.github.io/" target= "_blank"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=kole-swapnil&repo=kole-swapnil.github.io&theme=highcontrast&hide_border=true&show_icons=false" alt=""></a>
-  <a href="https://github.com/kole-swapnil/Certichain"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=kole-swapnil&repo=Certichain&theme=highcontrast&hide_border=true&show_icons=false" alt="Certichain"></a>
-  <a href="https://github.com/kole-swapnil/Distributeddocapp"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=kole-swapnil&repo=Distributeddocapp&hide_border=true&theme=highcontrast&show_icons=false" alt="Distributed Doctor Application"></a>
-  <a href="https://kole-swapnil.github.io/Process_Lineage/"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=kole-swapnil&repo=Process_Lineage&theme=highcontrast&hide_border=true&show_icons=false" alt="Process_Lineage"></a>
-  <a href="https://noobphotographer.github.io/" target= "_blank"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=noobphotographer&repo=noobphotographer.github.io&theme=highcontrast&hide_border=true&show_icons=false" alt="Photography Website"></a>
-  <a href="https://github.com/kole-swapnil/CryptoArt"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=kole-swapnil&repo=CryptoArt&theme=highcontrast&hide_border=true&show_icons=false" alt="CryptoArt"></a>
-   
-</p>
-</p>
-
 <!--Github Stats-->
 ## 📊 Github stats
 
