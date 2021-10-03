@@ -1,5 +1,5 @@
 <h1 align="center">Swapnil Kole</h1>
-<h3 align="center">Director of Engineering @ <a href="https://superworldapp.com">SUPERWORLD</a></h3>
+<h3 align="center">Director of Technology @ <a href="https://superworldapp.com" target= "_blank" >SUPERWORLD</a></h3>
 
 <!--About-->
 
