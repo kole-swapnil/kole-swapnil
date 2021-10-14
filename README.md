@@ -1,5 +1,5 @@
 <h1 align="center">Swapnil Kole</h1>
-<h3 align="center">Director of Technology @ <a href="https://superworldapp.com" target= "_blank" >SUPERWORLD</a></h3>
+<h3 align="center"><img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Blockchain+%26+Web+Developer"></h3>
 
 <!--About-->
 
