@@ -57,11 +57,6 @@
  
 </details>
 
-<!--Contribution Graph-->
-</br>
-
-![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=kole-swapnil&bg_color=000000&color=F8D866&line=39FF14&area_color=39FF14&point=FFFFFF&hide_border=true&area=true)
-
 </br>
 
 <!--social-->
